@@ -3,6 +3,5 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    tools:context=".SecondActivity"
     tools:ignore="MergeRootFrame" />
-<!-- From: file:/media/data/work/NewsReader/workspace/NewsReaderProject/NewsReader/src/main/res/layout/activity_main.xml -->
